@@ -42,13 +42,13 @@ interests:
 
 education:
   - area: Ph.D. in Computer Sciences  
-    institution: University of Wisconsin-Madison
-    year: 2023-
+    institution: UW-Madison, 2023-
+    # year:
   - area: B.Eng. in Software Engineering  
-    institution: Shanghai Jiao Tong University
+    institution: SJTU, 2018-2022
     date_start: 2018-09-01
     date_end: 2022-06-01
-    year: 2018-2022
+    # year: 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -126,10 +126,10 @@ education:
 
 # About Me
 
-Hi, I'm a second-year PhD student advised by Prof. [Junjie Hu](https://junjiehu.github.io/) at CS department of the Univeristy of Wisconsin-Madison. 
+Hi, I'm a 2nd-year PhD student advised by Prof. [Junjie Hu](https://junjiehu.github.io/) at Computer Science department of the Univeristy of Wisconsin-Madison. 
 
-Previously, I was a visiting student in my gap year at [SALT](https://cs.stanford.edu/~diyiy/group.html) lab, coadvised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/index.html) from Stanford Univeristy and Prof. [Junjie Hu](https://junjiehu.github.io/) from the Univeristy of Wisconsin-Madison. I received my B.Eng. degree from the Department of Software Engineering, Shanghai Jiao Tong University (SJTU). During my undergraduate years, I worked as a research intern in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). Our work mainly focuses on the dialogue system for depression diagnosis.
+Previously, I was a visiting student at [SALT](https://cs.stanford.edu/~diyiy/group.html) lab in my gap year, coadvised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/index.html) from Stanford Univeristy and Prof. [Junjie Hu](https://junjiehu.github.io/) from the Univeristy of Wisconsin-Madison. I received my B.Eng. degree from the Department of Software Engineering, Shanghai Jiao Tong University (SJTU). During my undergraduate years, I worked as a research intern in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). Our work mainly focuses on the dialogue system for depression diagnosis.
 
-I have broad research interests including social NLP and NLP for social good. More specially, I'm enthusiastic about research topics which have a positive impact on the society such as [NLP for Social Good](https://nlp4sg.vercel.app/), and topics which try to integrate sociology and psychology to create more informative and empathetic machine learning models. 
+I have broad research interests including **social NLP** and **NLP for social good**. More specially, I'm enthusiastic about research topics which have a positive impact on the society such as [NLP for Social Good](https://nlp4sg.vercel.app/), and topics which try to integrate sociology and psychology to create more informative and empathetic machine learning models. 
 
-<font color=#34A853>  Looking for the research intern for Summer 2025! </font>
+<font color=#34A853 bold=true>  Looking for research internship for Summer 2025! </font>
