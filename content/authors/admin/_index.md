@@ -41,10 +41,10 @@ interests:
   - NLP for Social Good
 
 education:
-  - area: Ph.D. Computer Sciences
+  - area: Ph.D. in Computer Sciences  
     institution: University of Wisconsin-Madison
     year: 2023-
-  - area: B.Eng. in Software Engineering
+  - area: B.Eng. in Software Engineering  
     institution: Shanghai Jiao Tong University
     date_start: 2018-09-01
     date_end: 2022-06-01
