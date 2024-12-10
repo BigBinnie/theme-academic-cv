@@ -55,7 +55,7 @@ links:
 - name: Website
   url: https://x-lance.github.io/MSDWILD/
 
-url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2022/liu22t_interspeech.pdf'
+url_pdf: 'https://www.isca-archive.org/interspeech_2022/ liu22t_interspeech.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
