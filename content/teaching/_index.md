@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Teaching as Teaching Assitant
+summary: Teaching Assitant
 type: landing
 
 cascade:
