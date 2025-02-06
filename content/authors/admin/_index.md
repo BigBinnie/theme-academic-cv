@@ -37,7 +37,7 @@ profiles:
     url: https://scholar.google.com/citations?user=zheNRCQAAAAJ
 
 interests:
-  - LLM Alignment (Pluralism and Personalization)
+  - Alignment (Pluralism and Personalization)
   - Algorithm Fairness
   - Reponsible AI
 
