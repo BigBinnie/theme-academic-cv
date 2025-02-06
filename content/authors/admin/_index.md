@@ -37,9 +37,9 @@ profiles:
     url: https://scholar.google.com/citations?user=zheNRCQAAAAJ
 
 interests:
-  - Alignment (Pluralism and Personalization)
-  - Algorithm Fairness
-  - Reponsible AI
+  - LLM Alignment
+  - Natural Language Processing
+  - Trustworthy AI
 
 education:
   - area: Ph.D. in Computer Sciences  
@@ -130,7 +130,7 @@ education:
 
 Hi, I'm a 2nd-year PhD student advised by Prof. [Junjie Hu](https://junjiehu.github.io/) at Computer Science department of the Univeristy of Wisconsin-Madison. 
 
-I focus on **Alignment**, mostly **Pluralistic Alignment** and **Personalization**. Specially, I'm interested in  helping language models fairly and safely serve diverse individuals.😊
+I'm currently working on **LLM Alignment**, mostly **Pluralistic Alignment** and **Personalization**. Specially, I'm interested in  helping language models fairly and safely serve diverse individuals.😊
 <!-- try to integrate sociology and psychology to create more informative and empathetic machine learning models, and topics which have a positive impact on the society.  -->
 
 Previously, I was fortunate to be a visiting student at [SALT](https://cs.stanford.edu/~diyiy/group.html) lab in my gap year, coadvised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/index.html) from Stanford Univeristy and Prof. [Junjie Hu](https://junjiehu.github.io/). During my undergraduate years, I worked as a research intern in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). 
