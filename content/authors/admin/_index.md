@@ -37,8 +37,9 @@ profiles:
     url: https://scholar.google.com/citations?user=zheNRCQAAAAJ
 
 interests:
-  - Social NLP
-  - NLP for Social Good
+  - LLM Alignment (Pluralism and Personalization)
+  - Algorithm Fairness
+  - Reponsible AI
 
 education:
   - area: Ph.D. in Computer Sciences  
@@ -125,11 +126,11 @@ education:
 ---
 
 # About Me
+<font color=#34A853 bold=true>  Looking for research internship for Summer 2025! </font>
 
 Hi, I'm a 2nd-year PhD student advised by Prof. [Junjie Hu](https://junjiehu.github.io/) at Computer Science department of the Univeristy of Wisconsin-Madison. 
 
-Previously, I was a visiting student at [SALT](https://cs.stanford.edu/~diyiy/group.html) lab in my gap year, coadvised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/index.html) from Stanford Univeristy and Prof. [Junjie Hu](https://junjiehu.github.io/) from the Univeristy of Wisconsin-Madison. I received my B.Eng. degree from the Department of Software Engineering, Shanghai Jiao Tong University (SJTU). During my undergraduate years, I worked as a research intern in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). Our work mainly focuses on the dialogue system for depression diagnosis.
+I focus on **Alignment**, mostly **Pluralistic Alignment** and **Personalization**. Specially, I'm interested in  helping language models fairly and safely serve diverse individuals.😊
+<!-- try to integrate sociology and psychology to create more informative and empathetic machine learning models, and topics which have a positive impact on the society.  -->
 
-I have broad research interests including **social NLP** and **NLP for social good**. More specially, I'm enthusiastic about research topics which try to integrate sociology and psychology to create more informative and empathetic machine learning models, and topics which have a positive impact on the society. 
-
-<font color=#34A853 bold=true>  Looking for research internship for Summer 2025! </font>
+Previously, I was fortunate to be a visiting student at [SALT](https://cs.stanford.edu/~diyiy/group.html) lab in my gap year, coadvised by Prof. [Diyi Yang](https://cs.stanford.edu/~diyiy/index.html) from Stanford Univeristy and Prof. [Junjie Hu](https://junjiehu.github.io/). During my undergraduate years, I worked as a research intern in [X-LANCE Lab](https://x-lance.sjtu.edu.cn/en) of SJTU, coadvised by Prof. [Mengyue Wu](https://x-lance.sjtu.edu.cn/en/members/mengyue-wu), Prof. [Lu Chen](https://coai-sjtu.github.io/), and Prof. [Kai Yu](https://x-lance.sjtu.edu.cn/en/members/kai_yu). 
