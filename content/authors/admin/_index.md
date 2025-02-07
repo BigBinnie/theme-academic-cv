@@ -37,9 +37,8 @@ profiles:
     url: https://scholar.google.com/citations?user=zheNRCQAAAAJ
 
 interests:
-  - Natural Language Processing
-  - Machine Learning
   - LLM Alignment
+  - Natural Language Processing
   - Trustworthy AI
 
 education:
