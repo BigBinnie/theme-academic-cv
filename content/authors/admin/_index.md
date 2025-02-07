@@ -39,7 +39,7 @@ profiles:
 interests:
   - LLM Alignment
   - Natural Language Processing
-  - Trustworthy AI
+  - Reponsible AI
 
 education:
   - area: Ph.D. in Computer Sciences  
