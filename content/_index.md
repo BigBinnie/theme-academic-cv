@@ -28,7 +28,7 @@ sections:
           filters:
             brightness: 1.0
           size: cover
-          position: center
+          position: left
           parallax: false
   - block: resume-biography-2
     content:
