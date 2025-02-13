@@ -18,6 +18,24 @@ sections:
       button:
         text: Download 1-Page Resume
         url: uploads/resume.pdf
+    design:
+      css_class: black
+      background:
+        color: 
+        image:
+          # Add your image background to `assets/media/`.
+          filename:
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: false
+  - block: resume-biography-2
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      text: ""
+      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download 2-Page CV
         url: uploads/resume.pdf
