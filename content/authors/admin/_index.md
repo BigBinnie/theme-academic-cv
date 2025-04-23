@@ -126,7 +126,7 @@ education:
 ---
 
 # About Me
-<font color=#34A853 bold=true>  Looking for research internship for Summer 2025! </font>
+<!-- <font color=#34A853 bold=true>  Looking for research internship for Summer 2025! </font> -->
 
 Hi, I'm a 2nd-year PhD student advised by Prof. [Junjie Hu](https://junjiehu.github.io/) at Computer Science department of the Univeristy of Wisconsin-Madison. 
 
